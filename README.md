@@ -1,2 +1,2 @@
-# Bulls-Eye-Game
+# Bulls-Eye-Game & Menja Game
 Hope You Will Like :)
